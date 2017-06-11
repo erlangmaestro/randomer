@@ -1,0 +1,18 @@
+{
+  "name": "erlangmaestro/randomer",
+  "description": "Generate a random alphanumeric value.",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Alexander Markov",
+      "email": "alexandermarkov@live.co.uk"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "MaestroRandomer\\": "src/"
+    }
+  }
+}
